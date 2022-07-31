@@ -8,12 +8,8 @@ Get your music here! Select your instrument below, or using the left sidebar.
 
 {{< button "../" "Home" "mb-1" >}}
 
-{{< button "./snare" "Snare" >}}
+{{< button "/music/2022show" "2022 Show" >}}
 
-{{< button "./quads" "Quads" >}}
+{{< button "/music/ninjadisco" "Ninja Disco" >}}
 
-{{< button "./bass" "Bass" >}}
-
-{{< button "./mallets" "Mallets" >}}
-
-{{< button "./auxiliary" "Auxiliary" >}}
+{{< button "/music/2022cadence" "2022 Cadence" >}}
