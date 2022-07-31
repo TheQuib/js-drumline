@@ -2,7 +2,6 @@ baseURL: 'https://drumline.jsasd.org/'
 title: Dut.
 description: >-
   Jersey Shore Marching Band Drumline.
-  Dut.
 enableRobotsTXT: true
 theme: compose
 enableGitInfo: true
