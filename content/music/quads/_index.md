@@ -3,6 +3,8 @@ title: "Quads Music"
 weight: 2
 ---
 
-Welcome to the Compose theme user guide! This guide shows you how to get started creating technical documentation sites using Compose, including site customization and how to use Compose's blocks and templates.
+Nothing to show here yet...
 
-{{< button "../../docs/compose/install-theme/" "Get started now" >}}
+{{< button "../" "Back" >}}
+
+{{< button "/" "Home>}}
