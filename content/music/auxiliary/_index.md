@@ -7,4 +7,4 @@ Nothing to show here yet...
 
 {{< button "../" "Back" >}}
 
-{{< button "/" "Home>}}
+{{< button "/" "Home">}}
