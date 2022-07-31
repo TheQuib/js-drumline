@@ -26,6 +26,6 @@ You can find your music [here](/music), or by clicking the *Get Music* button be
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/2022DrumlineLogo_back.png)
+![diy](/images/dut.png)
 {{< /column >}}
 {{< /block >}}
