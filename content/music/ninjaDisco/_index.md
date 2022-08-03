@@ -1,6 +1,6 @@
 ---
 title: "Ninja Disco"
-weight: 3
+weight: 4
 ---
 
 {{< block "grid-1" >}}
