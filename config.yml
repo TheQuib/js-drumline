@@ -49,7 +49,7 @@ params:
     name: GitHub
     iconLight: images/GitHubMarkLight.svg
     iconDark: images/GitHubMarkDark.svg
-    url: 'https://github.com/TheQuib/fnctn-docs/'
+    url: 'https://github.com/JSASD/js-drumline'
 
 menus:
   main:
