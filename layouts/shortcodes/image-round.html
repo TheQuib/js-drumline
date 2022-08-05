@@ -1,0 +1,4 @@
+{{ $src := .Get 0 }}
+{{ $width := .Get 1 }}
+{{ $rad := .Get 2 -}}
+<img src="{{ $src }}" width="{{ $width }}" style="border-radius: {{ $rad }}"/>

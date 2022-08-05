@@ -17,10 +17,11 @@ title = "Projects"
 
 Welcome to the home of dut.
 
+{{< image-round "/images/ads/wanted-leftFoot.gif" "175" "5%" >}}
+
 {{< tip "info" >}}
 You can find your music [here](/music), or by clicking the *Get Music* button below.
 {{< /tip >}}
-
 
 {{< button "/music" "Get Music" >}}{{< button "https://www.youtube.com/watch?v=dQw4w9WgXcQ" "Dut." >}}
 {{< /column >}}
