@@ -7,6 +7,15 @@ description: >
 
 {{< block "grid-1" >}}
 {{< column >}}
+## Full Line
+
+{{< audio-player "/music/2022Show/part2/starWars-part2-audio-full.mp3" >}}
+
+{{< /column >}}
+
+
+
+{{< column >}}
 ## Battery
 
 {{< audio-player "/music/2022Show/part2/starWars-part2-audio-battery.mp3" >}}
@@ -39,12 +48,46 @@ description: >
 {{< /column >}}
 
 
+
 {{< column >}}
 ## Basses
 
 {{< button-blank "/music/2022Show/part2/starWars-part2-bass.pdf" "Bass" >}}
 
 {{< audio-player "/music/2022Show/part2/starWars-part2-audio-bass.mp3" >}}
+
+{{< /column >}}
+
+
+
+{{< column >}}
+## Vibraphone
+
+{{< button-blank "/music/2022Show/part2/starWars-part2-vibraphone.pdf" "Bass" >}}
+
+{{< audio-player "/music/2022Show/part2/starWars-part2-audio-vibraphone.mp3" >}}
+
+{{< /column >}}
+
+
+
+{{< column >}}
+## Xylophone
+
+{{< button-blank "/music/2022Show/part2/starWars-part2-xylophone.pdf" "Bass" >}}
+
+{{< audio-player "/music/2022Show/part2/starWars-part2-audio-xylophone.mp3" >}}
+
+{{< /column >}}
+
+
+
+{{< column >}}
+## Bells
+
+{{< button-blank "/music/2022Show/part2/starWars-part2-bells.pdf" "Bass" >}}
+
+{{< audio-player "/music/2022Show/part2/starWars-part2-audio-bells.mp3" >}}
 
 {{< /column >}}
 {{< /block >}}
