@@ -7,6 +7,9 @@ description: >
 
 {{< block "grid-1" >}}
 {{< column >}}
+
+{{< button-blank "/music/2022Show/part1/starWars-part1-drumScore.pdf" "Download Drum Score" >}}
+
 ## Full Line
 
 {{< audio-player "/music/2022Show/part1/starWars-part1-audio-full.mp3" >}}
