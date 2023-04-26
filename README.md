@@ -4,9 +4,9 @@ Dut.
 
 # Theme used
 
-This site uses the [Compose](https://github.com/onweru/compose) theme by [onweru](https://github.com/onweru)
+This site uses the [Blowfish](https://github.com/nunocoracao/blowfish) theme by [onweru](https://github.com/nunocoracao)
 
- - Documentation can be found [here](https://docs.neuralvibes.com/)
+ - Documentation can be found [here](https://blowfish.page/docs/)
 
 
 # Deploy website locally
