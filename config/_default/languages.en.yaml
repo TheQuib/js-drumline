@@ -1,0 +1,19 @@
+languageCode: en
+languageName: English
+displayName: EN
+isoCode: en
+weight: 1
+rtl: false
+title: JS Drumline
+logo: img/2022DrumlineLogoDarkMode.png
+description: 'dut.'
+dateFormat: 'January 2, 2006'
+author:
+  name: Jersey Shore Drumline
+  image: img/2022DrumlineLogoDarkMode.png
+  headline: 'Welcome to the home of dut.'
+  bio: 'A powerful, lightweight theme for Hugo built with Tailwind CSS.'
+  links:
+    - facebook: 'https://www.facebook.com/JerseyShoreHighSchoolBand'
+    - instagram: 'https://www.instagram.com/jsbulldogmarchingband/'
+    - github: 'https://github.com/JSASD/js-drumline/tree/v2'

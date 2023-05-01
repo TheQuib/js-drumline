@@ -1,0 +1,35 @@
+main:
+  - name: Docs
+    pageRef: docs
+    weight: 10
+  - name: Samples
+    pageRef: samples
+    weight: 20
+  - name: Showcase
+    pageRef: examples
+    weight: 30
+  - name: Recipes
+    pageRef: guides
+    weight: 40
+  - name: Users
+    pageRef: users
+    weight: 90
+  - identifier: twitter
+    pre: twitter
+    url: 'https://twitter.com/burufugu'
+    weight: 200
+  - identifier: mastodon
+    pre: mastodon
+    url: 'https://masto.ai/@blowfish'
+    weight: 300
+  - identifier: github
+    pre: github
+    url: 'https://github.com/nunocoracao/blowfish'
+    weight: 400
+footer:
+  - name: Tags
+    pageRef: tags
+    weight: 10
+  - name: Authors
+    pageRef: authors
+    weight: 20
