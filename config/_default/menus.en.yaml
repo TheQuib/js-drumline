@@ -1,34 +1,22 @@
 main:
-  - name: Docs
-    pageRef: docs
+  - name: Music
+    pageRef: music
     weight: 10
-  - name: Samples
-    pageRef: samples
+  - name: Authors
+    pageRef: Authors
     weight: 20
-  - name: Showcase
-    pageRef: examples
-    weight: 30
-  - name: Recipes
-    pageRef: guides
-    weight: 40
-  - name: Users
-    pageRef: users
-    weight: 90
-  - identifier: twitter
-    pre: twitter
-    url: 'https://twitter.com/burufugu'
-    weight: 200
-  - identifier: mastodon
-    pre: mastodon
-    url: 'https://masto.ai/@blowfish'
-    weight: 300
   - identifier: github
     pre: github
-    url: 'https://github.com/nunocoracao/blowfish'
-    weight: 400
+    url: 'https://github.com/jsasd/js-drumline'
+    weight: 100
+  - identifier: facebook
+    pre: facebook
+    url: 'https://www.facebook.com/JerseyShoreHighSchoolBand'
+    weight: 200
+
 footer:
-  - name: Tags
-    pageRef: tags
+  - name: Music
+    pageRef: music
     weight: 10
   - name: Authors
     pageRef: authors

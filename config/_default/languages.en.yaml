@@ -10,9 +10,9 @@ description: 'dut.'
 dateFormat: 'January 2, 2006'
 author:
   name: Jersey Shore Drumline
-  image: img/2022DrumlineLogoDarkMode.png
+  image: img/dut.png
   headline: 'Welcome to the home of dut.'
-  bio: 'A powerful, lightweight theme for Hugo built with Tailwind CSS.'
+  bio: 'dut.'
   links:
     - facebook: 'https://www.facebook.com/JerseyShoreHighSchoolBand'
     - instagram: 'https://www.instagram.com/jsbulldogmarchingband/'

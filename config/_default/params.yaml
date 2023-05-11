@@ -26,19 +26,19 @@ footer:
 
 homepage:
   layout: background
-  showRecent: true
+  showRecent: false
   showRecentItems: 6
-  showMoreLink: true
-  showMoreLinkDest: docs
+  showMoreLink: false
+  showMoreLinkDest: music
   cardView: false
   cardViewScreenWidth: false
   layoutBackgroundBlur: true
 
 article:
   showDate: false
-  showViews: true
-  showLikes: true
-  showDateUpdated: false
+  showViews: false
+  showLikes: false
+  showDateUpdated: true
   showAuthor: true
   showHero: true
   heroStyle: background
