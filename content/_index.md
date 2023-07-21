@@ -17,7 +17,7 @@ title = "Projects"
 
 Welcome to the home of dut.
 
-{{< image-round "/images/ads/wanted-watchDrumMajor.gif" "200" "5%" >}}
+{{< image-round "/images/ads/blackMarketDots.gif" "200" "5%" >}}
 
 {{< tip "info" >}}
 You can find your music [here](/music), or by clicking the *Get Music* button below.
