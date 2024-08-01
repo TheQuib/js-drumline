@@ -1,5 +1,5 @@
 ---
-title: "2023 Show"
+title: "2024 Show"
 weight: 1
 ---
 
@@ -21,7 +21,7 @@ weight: 1
 
 {{< button-blank "/music/2024Show/cantHelp-tenors.pdf" "Download Music" >}}
 
-{{< audio-player "/music/2023Show/cantHelp-tenors.mp3" >}}
+{{< audio-player "/music/2024Show/cantHelp-tenors.mp3" >}}
 
 {{< /column >}}
 
